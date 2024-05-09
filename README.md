@@ -16,4 +16,6 @@
 
 ## HTML + CSS + JS
 
+| Python Projects | |
+|---|---|
 | [OnlineStore](https://github.com/markelberg/My-WebStore) | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) |
