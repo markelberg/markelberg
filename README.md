@@ -29,6 +29,7 @@
 <td>
 
 | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) | [Alien_invasion](https://github.com/markelberg/Alien_invasion_game)  |  [Saltarina_pygame](https://github.com/markelberg/Saltarina_game) | [Scikit, Pandas & Matplotlib](https://github.com/markelberg/scikit-matplotlib-pandas) |  [Django_apps](https://github.com/markelberg/Django_apps)  |
+|--|--|--|--|--|
 
 </td>
 </tr> 
@@ -37,6 +38,6 @@
 
 ## HTML + CSS + JS
 
-| Python Projects | |
+| Front-End Projects | |
 |---|---|
 | [OnlineStore](https://github.com/markelberg/My-WebStore) | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) |
