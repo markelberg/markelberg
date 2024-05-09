@@ -16,7 +16,6 @@
 </td>
 </tr> 
 </table>
-<br>
 
 ## Python Developer
 
@@ -34,7 +33,6 @@
 </td>
 </tr> 
 </table>
-<br>
 
 ## Front-End
 
