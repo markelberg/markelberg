@@ -36,8 +36,21 @@
 </table>
 
 
-## HTML + CSS + JS
+## Front-End
 
 | Front-End Projects | |
-|---|---|
+<table>
+<tr>
+<th colspan="2">Front-End Projects</th>
+</tr>
+  
+<tr>
+<td>
+  
 | [OnlineStore](https://github.com/markelberg/My-WebStore) | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) |
+|--|--|
+
+</td>
+</tr> 
+</table>
+
