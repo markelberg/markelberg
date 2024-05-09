@@ -50,14 +50,3 @@
 </td>
 </tr> 
 </table>
-
-<br>
-
-## My Stats
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=markelberg&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markelberg&langs_count=10&layout=compact)](https://github.com/markelberg/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=markelberg)](https://git.io/streak-stats)
-
-
-
