@@ -12,9 +12,7 @@
 
 | [Libft](https://github.com/markelberg/libft) | [Born2BeRoot](https://github.com/markelberg/Born2beroot42)  | [Printf](https://github.com/markelberg/ft_printf)   | [Get_Next_Line](https://github.com/markelberg/get_next_line) | [Push_Swap](https://github.com/markelberg/push_swap) |  [Pipex](https://github.com/markelberg/pipex)   |
 
-</td>
-
-</tr> </table>
+</td> </tr> </table>
 <br>
 
 ## Python Developer
@@ -36,4 +34,17 @@
 
 ## HTML + CSS + JS
 
-[OnlineStore](https://github.com/markelberg/My-WebStore)
+<table>
+<tr>
+<th>Python Projects</th>
+</tr>
+<tr>
+
+<td>
+
+| [OnlineStore](https://github.com/markelberg/My-WebStore) | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) |
+
+</td>
+
+</tr> </table>
+<br>
