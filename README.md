@@ -14,9 +14,9 @@
 |--|--|--|--|--|--|
 
 </td>
-
-
-</tr> </table>
+</tr> 
+</table>
+<br>
 
 ## Python Developer
 
@@ -34,11 +34,10 @@
 </td>
 </tr> 
 </table>
-
+<br>
 
 ## Front-End
 
-| Front-End Projects | |
 <table>
 <tr>
 <th colspan="2">Front-End Projects</th>
@@ -46,11 +45,10 @@
   
 <tr>
 <td>
-  
+
 | [OnlineStore](https://github.com/markelberg/My-WebStore) | [iSave_Django_Web](https://github.com/markelberg/iSave-gestor-de-gastos-) |
 |--|--|
 
 </td>
 </tr> 
 </table>
-
