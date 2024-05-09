@@ -1,4 +1,4 @@
-![profile_gif](https://mir-s3-cdn-cf.behance.net/project_modules/1500/b32a8c179531059.64fb11033cc3c.gif =1500x730)
+![profile_gif](https://mir-s3-cdn-cf.behance.net/project_modules/1500/b32a8c179531059.64fb11033cc3c.gif)
 
 ## 42 Common Core Student
 
