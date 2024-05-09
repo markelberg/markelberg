@@ -50,3 +50,7 @@
 </td>
 </tr> 
 </table>
+
+## My Stats
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=markelberg)](https://github.com/markelberg/github-readme-stats)
