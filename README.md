@@ -50,3 +50,9 @@
 </td>
 </tr> 
 </table>
+
+<br>
+
+## My Stats
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=markelberg&show_icons=true&theme=radical)
